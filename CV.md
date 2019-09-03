@@ -44,6 +44,12 @@
 * 「[Grid World](https://github.com/LovelyBuggies/Java_SeniorPracticalTraining_GridWorld)」: 用Java实现一个网格世界的游戏。
 * 「[Opioid Crisis](https://github.com/LovelyBuggies/Python_2019MCM_OpioidCrisis)」: 用 NFLIS 10~17 年五州各个县的阿片类药物检出量和人口结构找出泛滥危机的起因和解决方案。
 * 「[Greedy Snake](https://github.com/LovelyBuggies/PAOGD_Homework)」: 用 OpenGL实现[单玩家](https://github.com/LovelyBuggies/PAOGD_Homework/blob/master/PAOGD_HW4/report/PAOGD_HW4.md)和[多玩家](https://github.com/LovelyBuggies/PAOGD_Homework/blob/master/PAOGD_HW5/report/PAOGD_HW5.md)贪吃蛇游戏。
+* 「[Tank War](https://github.com/LovelyBuggies/OpenGL_TankWar)」: 用 OpenGL实现网络多人游戏坦克大战。
+* 「[Score Chain](https://github.com/LovelyBuggies/Solidity_ScoreChain_Dapp)」: 一款去中心化的打分软件，特色在于可以在以太坊上进行公平透明的打分。
+* 「[Video Object Detector](https://github.com/LovelyBuggies/openCV_ComputerVision_ObjectDetection)」: 用OpenCV，采用GMM模型和卡尔曼滤波器，进行道路视频中车辆的前景检测。
+* 「[NBA Salary Predictor](https://github.com/LovelyBuggies/NBA-Salary-Prediction)」: 用数据挖掘方法对NBA球员进行薪水预测。
+* 「[Aeiral Cactus Identification](https://github.com/LovelyBuggies/Jupyter_DeepLearning_Homework/tree/master/Identify-Cactus)」: 参加的[Kaggle比赛](https://www.kaggle.com/c/aerial-cactus-identification/overview)，用5种网络识别无人机拍摄照片中的柱状仙人掌。
+* 「[Aeiral Cactus Identification](https://github.com/LovelyBuggies/Jupyter_DeepLearning_Homework/tree/master/Identify-Cactus)」: 参加的[Kaggle比赛](https://www.kaggle.com/c/aerial-cactus-identification/overview)，用5种网络识别无人机拍摄照片中的柱状仙人掌。
 
 # 奖励情况
 
