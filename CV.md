@@ -29,42 +29,16 @@
 
 # 掌握技能
 
-
+- **语言**：Python、C++、MATLAB、Java、Solidity、JavaScript、C、HTML、mySQL
+- **系统**：区块链、IoT、IoV、博弈论、计算机视觉
+- **开发**：以太坊、智能合约、机器学习、深度学习、人工神经网络、强化学习、多智体策略优化
 
 # 个人作品
 
-## 上架 APP
+* 「[Agenda](https://github.com/LovelyBuggies/Cplusplus_PrimaryPracticalTraining_MyAgenda/blob/master/README.md)」：一个日程安排应用，可以创建并登陆您的账号，让你轻松地添加日程和成员。
 
-### iOS
-
-* 「[单语](https://itunes.apple.com/cn/app/单语-日语生词本-日语单词-日语学习/id1086636706)」：一个日语单词本应用，可以让你轻松地添加单词或者导入教材中的词库，或是自己建立词库、管理生词，成为你独一无二的生词本。
-  * 在 2017 年 6 月得到「最美应用」推荐：[单语—想要背好日语单词，不能错过这款 APP](http://zuimeia.com/app/5088)
-  * 在 2018 年 6 月受到 App Store 首页推荐：[WWDC18 奖学金得主出炉：看看有哪些得奖 App 和游戏](https://itunes.apple.com/cn/story/id1384637708)
-* 「[今日打卡](https://itunes.apple.com/cn/app/keeping-任务管理利器-打卡习惯养成/id1197272196)」：一个小巧的日程管理应用，能够添加并管理每日任务，并追踪任务打卡进度。
-  *  [GitHub](https://github.com/songkuixi/Keeping)
-* 「[南大老司机](https://itunes.apple.com/cn/app/nju-login/id1164049093)」：一个帮助南京大学学生更快捷地登录校园网、查询成绩、浏览常用网址的应用。
-  *  [GitHub](https://github.com/songkuixi/NJUHelper)
-* 「[顺路行](https://itunes.apple.com/cn/app/顺路行/id1290596835)」：大三时期完成的外包项目，是一个让大学生们在校园内顺路为他人完成一些服务、赚取一些利益的平台。
-* 「[APOD](https://itunes.apple.com/us/app/apod/id1173315594)」：一个每日天文一图客户端。
-    * 在 2018 年 10 月受到美国 App Store 首页专访及推荐：[Reach for the Stars：An astronomy major pivots to coding. The results are stellar.](https://itunes.apple.com/hk/story/id1435972425)
-
-### macOS
-
-* 「[TouchBrickout](https://itunes.apple.com/cn/app/touchbrickout/id1314804894)」：一款在 Mac 上用键盘或者 Touch Bar 进行打砖块的游戏。
-  *  [GitHub](https://github.com/songkuixi/TouchBreakout)
-
-## 其它项目
-
-* 「[Triplore](https://github.com/songkuixi/Triplore)」：2017 年[爱奇艺全国高校技术大赛](https://www.nowcoder.com/activity/iqiyi2017)冠军作品。利用它，你可以在网络上的旅游视频中找到自己想要的信息。并且快速便捷地把这些信息记录、整合，制作成一张自己专属的旅游笔记。
-* 「[FOF - Navigator](https://github.com/ReaperCitiCup/Reaper-iOS)」：2017 年 Reaper 小队花旗杯项目的 iOS 客户端，用于搜索、浏览基金的详细信息。
-
-## 学校项目
-
-* 「[SamurAI](https://github.com/Sorumi/IArumaS)」：EL 比赛的作品，一个 Java 写成的武士对战棋类游戏。
-* 「[MineSweeper](https://github.com/songkuixi/MineSweeper)」：一个 Java 的双人联机对战版扫雷游戏。
-* 「[MSH](https://github.com/Inf1NityNJU/MSH)」：一个 Java 写成的模拟酒店预订系统。
-* 「[Movieet](https://github.com/songkuixi/Movieet)」：一个用 J2EE 框架写成的电影评分、查看、推荐系统。
-* 「[Bilet](https://github.com/songkuixi/Bilet)」：一个用 J2EE 框架写成的简易版购票系统。
+* 「[GraphWorld](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括了各类常用的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）的demo。
+* 「[GraphWorld](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括了各类常用的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）的demo。
 
 # 奖励情况
 
@@ -73,7 +47,7 @@
 
 # 语言能力
 
-* GRE：
+* GRE：316 （V147+Q169）
 * TOEFL：105 （R28+L28+S23+W26）
 
 # 校园生活
