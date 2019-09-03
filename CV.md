@@ -66,23 +66,10 @@
 * 「[Movieet](https://github.com/songkuixi/Movieet)」：一个用 J2EE 框架写成的电影评分、查看、推荐系统。
 * 「[Bilet](https://github.com/songkuixi/Bilet)」：一个用 J2EE 框架写成的简易版购票系统。
 
-## 社区活动
-
-* 在 2017 年 9 月的[上海 T 沙龙第 8 次线下活动](http://t.swift.gg/d/85-t-8)中，进行题为「ARKit 初探 - 从 Apple's Template 到 ARGitHubCommits」的分享。
-    * [分享录像（需翻墙）](https://www.youtube.com/watch?v=ZFHwHBk-G0E)
-    * [ARGitHubCommits](https://github.com/songkuixi/ARGitHubCommits)地址
-
 # 奖励情况
 
-* 2018 年华为奖学金
-* 2018 WWDC 奖学金
-  * 项目地址：[ARTargetShooting](https://github.com/songkuixi/ARTargetShooting)
-* 2017 年玄铁科技奖学金
-* 2017 年[爱奇艺全国高校技术大赛](https://www.nowcoder.com/activity/iqiyi2017)最强开发者组冠军
-    * [采访视频](http://www.iqiyi.com/v_19rr7wn8d0.html)
-* 2017 年爱奇艺全国高校技术大赛最强开发者组最佳个人奖
-* 2016 年南京大学人民奖学金一等奖
-* 2016 年南京大学软件学院 EL 程序设计大赛游戏组一等奖
+* 2018 MCM/ICM 美国大学生建模比赛S奖
+* 2019 校级二等奖
 
 # 语言能力
 
