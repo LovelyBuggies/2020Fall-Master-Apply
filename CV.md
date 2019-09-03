@@ -38,7 +38,9 @@
 * 「[Agenda](https://github.com/LovelyBuggies/Cplusplus_PrimaryPracticalTraining_MyAgenda/blob/master/README.md)」：一个日程安排应用，可以创建并登陆您的账号，让你轻松地添加日程和成员。
 
 * 「[GraphWorld](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括了各类常用的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）的demo。
-* 「[GraphWorld](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括了各类常用的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）的demo。
+* 「[PYSC_MADDPG](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE)」：这个项目是我在中科院自动化所的实习代码，主要是利用深度强化学习的MADDPG算法，应用到暴雪开源的SC2LE强化学习开发环境，来训练星际争霸2中一个简单的对抗环境。
+* 「[Gear Control System](https://github.com/LovelyBuggies/Uppaal_GearControlSystem)」：用Uppal实现的一个车轮控制系统。
+* 
 
 # 奖励情况
 
