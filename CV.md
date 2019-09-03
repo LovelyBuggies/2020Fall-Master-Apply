@@ -40,7 +40,7 @@
 * 「[GraphWorld](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括了各类常用的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）的demo。
 * 「[PYSC_MADDPG](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE)」：这个项目是我在中科院自动化所的实习代码，主要是利用深度强化学习的MADDPG算法，应用到暴雪开源的SC2LE强化学习开发环境，来训练星际争霸2中一个简单的对抗环境。
 * 「[Gear Control System](https://github.com/LovelyBuggies/Uppaal_GearControlSystem)」：用Uppal实现的一个车轮控制系统。
-* 
+* 「PageRanker」: 基于Hadoop分布式基础架构实现PageRank算法，在 Windows 10 系统中利⽤ VMware Workstation 12 Pro 虚拟机管理平台、 Xshell 安全终端模拟软件以及 Hadoop 分布式基础架构等⼯具，完成云平台上环境配置及 Hadoop 分布式架构的搭建。
 
 # 奖励情况
 
