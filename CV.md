@@ -49,7 +49,7 @@
 * 「[Video Object Detector](https://github.com/LovelyBuggies/openCV_ComputerVision_ObjectDetection)」: 用OpenCV，采用GMM模型和卡尔曼滤波器，进行道路视频中车辆的前景检测。
 * 「[NBA Salary Predictor](https://github.com/LovelyBuggies/NBA-Salary-Prediction)」: 用数据挖掘方法对NBA球员进行薪水预测。
 * 「[Aeiral Cactus Identification](https://github.com/LovelyBuggies/Jupyter_DeepLearning_Homework/tree/master/Identify-Cactus)」: 参加的[Kaggle比赛](https://www.kaggle.com/c/aerial-cactus-identification/overview)，用5种网络识别无人机拍摄照片中的柱状仙人掌。
-* 「[Aeiral Cactus Identification](https://github.com/LovelyBuggies/Jupyter_DeepLearning_Homework/tree/master/Identify-Cactus)」: 参加的[Kaggle比赛](https://www.kaggle.com/c/aerial-cactus-identification/overview)，用5种网络识别无人机拍摄照片中的柱状仙人掌。
+* 
 
 # 奖励情况
 
