@@ -1,9 +1,7 @@
 ## Paper
 
-- **Completed**: Optimal Analysis of Target Dynamic Tracking Strategy Based on Computer Vision. IEEE 3rd International Conference on Electronic Information Technology and Computer Engineering (first author).
-- **Pending**:
-  - P2P Digital Goods Trading Mechanism in Internet of Vehicles. The 17th International Congerence on Service-Oriented Computing (first author).
-  - Blockchain-Empowered Incentive Mechanism for Secure and Efficient Software Crowdsourcing. IEEE Transactions on Parallel and Distributed System (forth author).
+- Optimal Analysis of Target Dynamic Tracking Strategy Based on Computer Vision. IEEE 3rd International Conference on Electronic Information Technology and Computer Engineering.
+- P2P Digital Goods Trading Mechanism in Internet of Vehicles. The 17th International Congerence on Service-Oriented Computing.
 
 ## Research Experience
 

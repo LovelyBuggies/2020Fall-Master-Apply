@@ -29,9 +29,45 @@
 
 # 掌握技能
 
-- **语言**：Python、C++、MATLAB、Java、Solidity、JavaScript、C、HTML、mySQL
-- **系统**：区块链、IoT、IoV、博弈论、计算机视觉
-- **开发**：以太坊、智能合约、机器学习、深度学习、人工神经网络、强化学习、多智体策略优化
+- **语言**：Python、C++、MATLAB、Java、Solidity、JavaScript、C、HTML、mySQL、Verilog
+- **系统**：区块链、物（车）联网、博弈论、计算机视觉、机器学习
+- **开发**：以太坊、智能合约、深度学习、人工神经网络、强化学习、多智体策略优化
+
+# 科研经历
+
+- **2018.4 - 至今**：在 **Inplus Lab** 做科研，课题是将博弈论应用于基于区块链的物联网系统
+  - 建立去中心化的区块链，并将其应用于混合驱动的车联网系统中。
+  - 将Stackelberg博弈应用于车联网系统，设计双层Stackelberg算法激励三方参与交易。
+  - 使用Python实现数值实验并完成论文。
+- **2017.12-2018.2**：在**中国矿业大学**做科研，课题是道路监控中的车辆目标提取
+  - 学习openCV API的基本函数，查找用于前景检测的函数。
+  - 在Xcode上搭建好计算机视觉视频处理环境。
+  - 利用高斯混合模型对视频道路中的检测目标进行建模。
+  - 采用卡尔曼滤波器对结果进行优化，并用C++实现。
+
+# 科研成果
+
+## 录用
+
+- Optimal Analysis of Target Dynamic Tracking Strategy Based on Computer Vision. IEEE 3rd International Conference on Electronic Information Technology and Computer Engineering. （第一作者）
+- P2P Digital Goods Trading Mechanism in Internet of Vehicles. The 17th International Congerence on Service-Oriented Computing.（第一作者）
+- 区块链在物联网技术中的应用 （第一作者）
+
+## 在投
+
+- Time is Money: A Location-dependent Mobile Edge Computing Framework （第三作者）
+- （第四作者）
+
+# 实习经历
+
+-  **2018.6-2018.8**：在**中科院自动化所**实习，主要实习任务是在星际争霸2强化学习环境中训练游戏AI。
+  - 使用pysc2接口在星际争霸2中构建一个强化的学习环境。
+  - 学习各种用于训练游戏AI的强化学习算法，并在此场景中选择最合适的算法。
+  - 在Python中实现MADDPG算法，对士兵们进行多智体策略优化，以提高他们的胜率。
+- **2019.7-2019.10**：在**微软中国**实习，主要实习任务是调研Azure云平台的新工具。
+  - 探索[Azure Machine Learning Studio](https://studio.azureml.net/)中各个模块的功能。
+  - 在[Azure Notebook](https://links.jianshu.com/go?to=https%3A%2F%2Fnotebooks.azure.com%2F)平台上完成实验，预测NBA球员的薪水。
+  - 利用[Azure Maps](https://azure.microsoft.com/en-us/services/azure-maps/)工具完成实验，完成兴趣点的搜索。
 
 # 个人作品
 
@@ -71,3 +107,4 @@
 * 中山大学软件发展中心成员
 * 中山大学新生杯篮球争霸赛第三名
 * 连续三年参加院系篮球赛
+
