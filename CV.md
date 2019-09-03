@@ -1,6 +1,6 @@
 # 联系方式
 
-* 手机：13954608969
+* 手机：+86-13954608969
 * Email：ninomyemail@gmail.com
 * 微信：liushuo1998518
 * 简书：https://www.jianshu.com/u/ad132373fc48
