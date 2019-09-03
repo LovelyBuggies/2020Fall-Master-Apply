@@ -37,10 +37,13 @@
 
 * 「[Agenda](https://github.com/LovelyBuggies/Cplusplus_PrimaryPracticalTraining_MyAgenda/blob/master/README.md)」：一个日程安排应用，可以创建并登陆您的账号，让你轻松地添加日程和成员。
 
-* 「[GraphWorld](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括了各类常用的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）的demo。
-* 「[PYSC_MADDPG](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE)」：这个项目是我在中科院自动化所的实习代码，主要是利用深度强化学习的MADDPG算法，应用到暴雪开源的SC2LE强化学习开发环境，来训练星际争霸2中一个简单的对抗环境。
-* 「[Gear Control System](https://github.com/LovelyBuggies/Uppaal_GearControlSystem)」：用Uppal实现的一个车轮控制系统。
-* 「PageRanker」: 基于Hadoop分布式基础架构实现PageRank算法，在 Windows 10 系统中利⽤ VMware Workstation 12 Pro 虚拟机管理平台、 Xshell 安全终端模拟软件以及 Hadoop 分布式基础架构等⼯具，完成云平台上环境配置及 Hadoop 分布式架构的搭建。
+* 「[Graph World](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括了各类常用的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）的demo。
+* 「[PYSC MADDPG](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE)」：在暴雪SC2LE强化学习开发环境中，利用MADDPG算法，训练星际争霸2中一个简单的对抗环境。
+* 「[Gear Control System](https://github.com/LovelyBuggies/Uppaal_GearControlSystem)」：用Uppaal实现的一个实时车轮控制系统。
+* 「[Page Ranker](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker)」: 基于Hadoop分布式基础架构实现PageRank算法。
+* 「[Grid World](https://github.com/LovelyBuggies/Java_SeniorPracticalTraining_GridWorld)」: 用Java实现一个网格世界的游戏。
+* 「[Opioid Crisis](https://github.com/LovelyBuggies/Python_2019MCM_OpioidCrisis)」: 用 NFLIS 10~17 年五州各个县的阿片类药物检出量和人口结构找出泛滥危机的起因和解决方案。
+* 「Greedy Snake」: 用 OpenGL实现单玩家和多玩家贪吃蛇游戏。
 
 # 奖励情况
 
