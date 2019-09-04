@@ -71,20 +71,27 @@
 
 # 个人作品
 
+## 项目成品
+
 * 「[Agenda](https://github.com/LovelyBuggies/Cplusplus_PrimaryPracticalTraining_MyAgenda/blob/master/README.md)」：一个日程安排应用，可以创建并登陆您的账号，让你轻松地添加日程和成员。
-* 「[Graph World](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括了各类常用的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）的demo。
+* 「[Graph World](https://github.com/LovelyBuggies/Cplusplus_GraphTheory_Experiments)」：一个图论算法的客户端，包括一些常见的图论算法（Prim、Kruskal、Dijkstra、BFS、DFS和临接表）。
 * 「[PYSC MADDPG](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE)」：在暴雪SC2LE强化学习开发环境中，利用MADDPG算法，训练星际争霸2中一个简单的对抗环境。
 * 「[Gear Control System](https://github.com/LovelyBuggies/Uppaal_GearControlSystem)」：用Uppaal实现的一个实时车轮控制系统。
 * 「[Page Ranker](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker)」: 基于Hadoop分布式基础架构实现PageRank算法。
 * 「[Grid World](https://github.com/LovelyBuggies/Java_SeniorPracticalTraining_GridWorld)」: 用Java实现一个网格世界的游戏。
 * 「[Opioid Crisis](https://github.com/LovelyBuggies/Python_2019MCM_OpioidCrisis)」: 用 NFLIS 10~17 年五州各个县的阿片类药物检出量和人口结构找出泛滥危机的起因和解决方案。
 * 「[Greedy Snake](https://github.com/LovelyBuggies/PAOGD_Homework)」: 用 OpenGL实现[单玩家](https://github.com/LovelyBuggies/PAOGD_Homework/blob/master/PAOGD_HW4/report/PAOGD_HW4.md)和[多玩家](https://github.com/LovelyBuggies/PAOGD_Homework/blob/master/PAOGD_HW5/report/PAOGD_HW5.md)贪吃蛇游戏。
-* 「[Tank War](https://github.com/LovelyBuggies/OpenGL_TankWar)」: 用 OpenGL实现网络多人游戏坦克大战。
+* 「[Tank War (openGL)](https://github.com/LovelyBuggies/OpenGL_TankWar)」: 用 OpenGL实现网络多人游戏坦克大战。
+* 「[Tank War (unity-3d)](https://github.com/LovelyBuggies/Unity3d-Homework/tree/master/hw10)」: 用 unity-3d实现网络多人游戏坦克大战。
 * 「[Score Chain](https://github.com/LovelyBuggies/Solidity_ScoreChain_Dapp)」: 一款去中心化的打分软件，特色在于可以在以太坊上进行公平透明的打分。
 * 「[Video Object Detector](https://github.com/LovelyBuggies/openCV_ComputerVision_ObjectDetection)」: 用OpenCV，采用GMM模型和卡尔曼滤波器，进行道路视频中车辆的前景检测。
 * 「[NBA Salary Predictor](https://github.com/LovelyBuggies/NBA-Salary-Prediction)」: 用数据挖掘方法对NBA球员进行薪水预测。
 * 「[Aeiral Cactus Identification](https://github.com/LovelyBuggies/Jupyter_DeepLearning_Homework/tree/master/Identify-Cactus)」: 参加的[Kaggle比赛](https://www.kaggle.com/c/aerial-cactus-identification/overview)，用5种网络识别无人机拍摄照片中的柱状仙人掌。
 * 「[Make Spare Money](https://github.com/make-money-sysu)」: 一个大学生通过做任务挣钱的云平台，是一个以运营为中心的服务软件。
+
+## 其他作品
+
+- 「[Make Spare Money](https://github.com/make-money-sysu)」: 一个大学生通过做任务挣钱的云平台，是一个以运营为中心的服务软件。
 
 # 奖励情况
 
