@@ -60,11 +60,11 @@
 
 # 实习经历
 
--  **2018.6-2018.8**：在**[中科院自动化所](http://www.ia.cas.cn/)**实习，主要实习任务是在星际争霸2强化学习环境中训练游戏AI。
+-  **2018.6-2018.8**：在[**中科院自动化所**](http://www.ia.cas.cn/)实习，主要实习任务是在星际争霸2强化学习环境中训练游戏AI。
   - 使用pysc2接口在星际争霸2中构建一个强化的学习环境。
   - 学习各种用于训练游戏AI的强化学习算法，并在此场景中选择最合适的算法。
   - 在Python中实现MADDPG算法，对士兵们进行多智体策略优化，以提高他们的胜率。
-- **2019.7-2019.10**：在**[微软中国](https://azure.microsoft.com/en-us/)**实习，主要实习任务是调研Azure云平台的新工具。
+- **2019.7-2019.10**：在[**微软中国**](https://azure.microsoft.com/en-us/)实习，主要实习任务是调研Azure云平台的新工具。
   - 探索[Azure Machine Learning Studio](https://studio.azureml.net/)中各个模块的功能。
   - 在[Azure Notebook](https://links.jianshu.com/go?to=https%3A%2F%2Fnotebooks.azure.com%2F)平台上完成实验，预测NBA球员的薪水。
   - 利用[Azure Maps](https://azure.microsoft.com/en-us/services/azure-maps/)工具完成实验，完成兴趣点的搜索。
