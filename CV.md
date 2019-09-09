@@ -50,7 +50,7 @@
 ## 录用
 
 - Optimal Analysis of Target Dynamic Tracking Strategy Based on Computer Vision. IEEE 3rd International Conference on Electronic Information Technology and Computer Engineering. （第一作者）
-- P2P Digital Goods Trading Mechanism in Internet of Vehicles. The 17th International Congerence on Service-Oriented Computing.（第一作者）
+- P2P Digital Goods Trading Mechanism in Internet of Vehicles. 第一作者）
 - 区块链在物联网技术中的应用 （第一作者）
 
 ## 在投
