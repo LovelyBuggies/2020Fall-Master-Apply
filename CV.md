@@ -31,7 +31,7 @@
 
 - **语言**：[Python](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=python)、[ipnb](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=jupyter+notebook)、[C++](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=c%2B%2B)、[MATLAB](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=matlab)、[Java](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=java)、[Solidity](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=solidity)、[JavaScript](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=javascript)、[C](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=c)、[C#](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=c%23)、[HTML](https://github.com/make-money-sysu?utf8=%E2%9C%93&q=&type=&language=html)、[mySQL](https://github.com/LovelyBuggies/MySQL_Database_Experiments)、[Verilog](https://github.com/LovelyBuggies?utf8=%E2%9C%93&tab=repositories&q=&type=&language=verilog)、[Go](https://github.com/make-money-sysu?utf8=%E2%9C%93&q=&type=&language=go)
 - **系统**：区块链、物（车）联网、博弈论、计算机视觉、机器学习
-- **开发**：以太坊、智能合约、深度学习、人工神经网络、强化学习、多智体策略优化
+- **开发**：以太坊、智能合约、深度学习、强化学习、多智体策略优化
 
 # 科研经历
 
