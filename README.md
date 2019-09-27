@@ -1,5 +1,4 @@
 # US-CS-MS
-这个仓库整理了一些我2020申请US CS master的资料。
-
+我在 2020 Fall US CS MS 的资料，as a memto.
 
 
